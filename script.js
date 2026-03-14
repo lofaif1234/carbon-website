@@ -1,1 +1,1 @@
-const _0xP_1928 = [];const _0xSD_1928 = function(i){let s = atob(_0xP_1928[i]);let r = '';for(let j=0; j<s.length; j++){r += String.fromCharCode(s.charCodeAt(j) ^ 20);}return r;};const _0xSD = _0xSD_1928;;
+const _0xP_cy1p = [];const _0xSD_cy1p = function(i){let s = atob(_0xP_cy1p[i]);let r = '';for(let j=0; j<s.length; j++){r += String.fromCharCode(s.charCodeAt(j) ^ 45);}return r;};const _0xSD = _0xSD_cy1p;;
